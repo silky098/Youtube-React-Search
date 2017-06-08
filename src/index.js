@@ -35,7 +35,7 @@ class App extends Component {
 
     return (
       <div>
-        <div><h1 className="heading">The Silky098 Youtube Video Search</h1></div>
+        <div><h1 className="heading">Reactive Youtube Video Search</h1></div>
         <SearchBar onSearchTermChange={videoSearch} />
         <VideoDetail video={this.state.selectedVideo} />
         <VideoList
