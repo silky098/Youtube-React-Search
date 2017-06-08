@@ -1,6 +1,10 @@
 .search-bar {
   margin: 20px;
   text-align: center;
+  border-width: 400px;
+  border-radius: 5px;
+  border-color: #aaaaaa;
+  border: 1px;
 }
 
 .search-bar {
@@ -8,7 +12,7 @@
 }
 
 .video-item img {
-  max-width: 65px;
+  max-width: 64px;
 }
 
 .video-detail .details {
